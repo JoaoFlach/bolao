@@ -1,0 +1,6 @@
+[git-together "authors"]
+	jf = "João Flach;joao.flach"	
+	lb = "Leandro Bianchini;leandro.bianchini"
+	ep = "Enrique Ell Pereira;enrique.pereira"
+[git-together]
+	domain = adp.com

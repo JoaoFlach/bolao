@@ -1,0 +1,2 @@
+# implement RedisClient
+REDIS = None
